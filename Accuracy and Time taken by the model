@@ -6,9 +6,9 @@ BERT 5 = val_accuracy: 0.5575 Execution time: 08:07:07.10
 BERT 3 = val_accuracy: 0.6773 Execution time: 06:17:52.10
 BERT 2 = val_accuracy: 0.8944 Execution time: 04:31:24.90
 
-Fasttext 5 = 
-Fasttext 3 = 
-Fasttext 2 = 
+Fasttext 5 = val_accuracy: 0.52 Execution time: 00:19:50.10
+Fasttext 3 = val_accuracy: 0.66 Execution time: 00:14:01.54
+Fasttext 2 = val_accuracy: 0.84 Execution time: 00:09:05.08
 
 
 CNN+LSTM 5 = val_accuracy: 0.3594 Execution time: 00:02:29.54
