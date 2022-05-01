@@ -1,0 +1,20 @@
+LSTM 5 = val_accuracy: 0.6875 Execution time: 02:34:29.68 [may suffer overfitting]
+LSTM 3 = val_accuracy: 0.7188 Execution time: 01:29:15.53
+LSTM 2 = val_accuracy: 0.9062 Execution time: 01:05:07.10
+
+BERT 5 = val_accuracy: 0.5575 Execution time: 08:07:07.10
+BERT 3 = val_accuracy: 0.6773 Execution time: 06:17:52.10
+BERT 2 = val_accuracy: 0.8944 Execution time: 04:31:24.90
+
+Fasttext 5 = 
+Fasttext 3 = 
+Fasttext 2 = 
+
+
+CNN+LSTM 5 = val_accuracy: 0.3594 Execution time: 00:02:29.54
+CNN+LSTM 3 = val_accuracy: 0.7344 Execution time: 00:01:06.75
+CNN+LSTM 2 = val_accuracy: 0.8438 Execution time: 00:01:31.42
+
+CNN 5 = val_accuracy: 0.5550 Execution time: 00:19:55.11
+CNN 3 = val_accuracy: 0.6901 Execution time: 00:12:07.35
+CNN 2 = val_accuracy: 0.9154 Execution time: 00:07:38.38
